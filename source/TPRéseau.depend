@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1417728226 source:f:\etudes\travaux\développement\my c\tpréseau\main.c
+
+1045578598 c:\libs\libnet-0.10.11\libnet\include\libnet.h
+	<stdio.h>
+
+1417727699 source:f:\etudes\travaux\développement\my c\tpréseau\service_liaison0.c
+
+1417727225 f:\etudes\travaux\développement\my c\tpréseau\couche_liaison.h
+	"couche_physique.h"
+	<stdio.h>
+	<stdlib.h>
+	<libnet.h>
+	<stdint.h>
+
+1417812053 f:\etudes\travaux\développement\my c\tpréseau\couche_physique.h
+
+1417727694 source:f:\etudes\travaux\développement\my c\tpréseau\service_liaison1.c
+	"couche_liaison.h"
+
+1417727515 source:f:\etudes\travaux\développement\my c\tpréseau\service_liaison2.c
+
+1417727520 source:f:\etudes\travaux\développement\my c\tpréseau\service_liaison3.c
+
+1417727699 source:f:\etudes\travaux\développement\my c\tpréseau\serviceliaison3\emetteur.c
+
+1417727699 source:f:\etudes\travaux\développement\my c\tpréseau\serviceliaison3\recepteur.c
+
+1417814812 source:f:\etudes\travaux\développement\my c\tpréseau\serviceliaison0\emetteur.c
+	"../couche_liaison.h"
+
+1417728524 source:f:\etudes\travaux\développement\my c\tpréseau\serviceliaison0\recepteur.c
+	"../couche_liaison.h"
+
+1417723647 source:f:\etudes\travaux\développement\my c\tpréseau\couche_liaison.c
+
+1417729106 source:f:\etudes\travaux\développement\my c\tpréseau\couche_physique.c
+
